@@ -1,0 +1,7 @@
+{
+    "model": "mobilenet_v2",
+    "image_folder": "C:\\Users\\medha\\OneDrive\\Desktop\\WorkSpace\\tensorrt\\data",
+    "batch_size": 10,
+    "log_level": "INFO",
+    "output_dir": "results"
+}

@@ -1,0 +1,1 @@
+{"pytorch_mean_time": 0.015055149793624878, "tensorrt_mean_time": 0.0008783638477325439, "pytorch_throughput": 66.42245435667809, "tensorrt_throughput": 1138.4803718657754}

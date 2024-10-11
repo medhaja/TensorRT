@@ -1,0 +1,4 @@
+{
+    "model": "mobilenet_v2",
+    "image_folder": "C:\\Users\\medha\\OneDrive\\Desktop\\WorkSpace\\tensorrt_llm\\TensorRT-LLM-main\\TensorRT-LLM-main\\data"
+}
