@@ -17,8 +17,9 @@ This project compares the inference performance of PyTorch and TensorRT on a set
 ## Installation
 ```bash
 pip install -r requirements.txt
-# PyTorch and TensorRT Inference Comparison
 ```
+# PyTorch and TensorRT Inference Comparison
+
 This project compares the inference performance of a PyTorch model and its TensorRT-optimized counterpart. It includes functionalities to load a model, export it to ONNX format, convert the ONNX model to TensorRT, and run inference on a set of images. The results are logged, and a performance report is generated, including mean inference times and throughput comparisons.
 
 ## Table of Contents
